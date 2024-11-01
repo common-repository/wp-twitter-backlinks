@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Twitter Backlinks v0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-02 11:27+0200\n"
+"PO-Revision-Date: 2010-11-02 11:27+0200\n"
+"Last-Translator: TIgor <tigoria@gmail.com>\n"
+"Language-Team: TIgor <tigoria@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_c;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../wp-twitbacks.php:66
+msgid "Number of links for last two weeks:"
+msgstr "Ссылок за последние две недели:"
+
+#: ../wp-twitbacks.php:143
+msgid "Script by <a href=\"http://en.tigor.org.ua/wp_twitbacks/\">TIgor</a>"
+msgstr "Виджет написал <a href=\"http://tigor.org.ua/wp-twitbacks/\">TIgor</a>"
+
+#: ../wp-twitbacks.php:182
+msgid "Widget title"
+msgstr "Заголовок виджета"
+
+#: ../wp-twitbacks.php:184
+msgid "Link to watch"
+msgstr "Ссылка"
+
+#: ../wp-twitbacks.php:186
+msgid "Key"
+msgstr "Ключ"
+
+#: ../wp-twitbacks.php:186
+msgid "Get key"
+msgstr "Получить ключ"
+
+#: ../wp-twitbacks.php:188
+msgid "Number of tweets to show"
+msgstr "Показывать твитов:"
+
+#: ../wp-twitbacks.php:191
+msgid "Help promote plugin?"
+msgstr "Помочь продвигать виджет?"
+
+#: ../wp-twitbacks.php:203
+#: ../wp-twitbacks.php:204
+msgid "TwitBacks Widget"
+msgstr "TwitBacks Widget"
+
